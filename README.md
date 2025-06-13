@@ -22,46 +22,6 @@ In this task, we:
 
 ---
 
-## 🗂️ Repository Structure
-
-Qwen3-235B-A22B
-1:13 AM
-Here's a professional and comprehensive README.md file tailored for Task 1 of your B5W3: End-to-End Insurance Risk Analytics & Predictive Modeling challenge.
-
-📄 README.md – Task 1: Git/GitHub Setup + EDA
-markdown
-
-
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-⌄
-⌄
-⌄
-⌄
 # Insurance Risk Analytics Challenge - Week 3  
 ## Task 1: Git/GitHub Setup + Exploratory Data Analysis (EDA)
 
